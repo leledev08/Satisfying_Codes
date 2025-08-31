@@ -15,7 +15,7 @@ except pygame.error:
 
 # Finestra ridimensionabile
 screen = pygame.display.set_mode((1080, 1920))
-pygame.display.set_caption("Palline - rimbalzo con suono e gravità")
+pygame.display.set_caption("Video 2")
 
 # Colori sfondo e bordo
 LIGHT_GRAY = (200, 200, 200)

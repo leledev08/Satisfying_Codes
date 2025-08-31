@@ -7,7 +7,7 @@ pygame.init()
 BASE_WIDTH, BASE_HEIGHT = 720, 1280
 WIDTH, HEIGHT = 1080, 1920
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Pallina che si ingrandisce e rimbalza")
+pygame.display.set_caption("Video 1")
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)

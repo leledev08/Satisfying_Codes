@@ -8,7 +8,7 @@ pygame.init()
 # --- Schermo 1080x1920 (9:16) ---
 WIDTH, HEIGHT = 1080, 1920
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Ciambelle con rimbalzo e glow")
+pygame.display.set_caption("Video 5")
 
 # --- Colori e costanti ---
 BLACK = (0, 0, 0)

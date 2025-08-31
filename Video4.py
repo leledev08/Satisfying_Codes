@@ -7,7 +7,7 @@ pygame.init()
 # --- Schermo ---
 WIDTH, HEIGHT = 1080, 1920
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Cerchi concentrici con pallina rimbalzante e scia colorata")
+pygame.display.set_caption("Video 4")
 
 # --- Colori e costanti ---
 BLACK = (0, 0, 0)

@@ -7,7 +7,7 @@ pygame.init()
 # Risoluzione verticale per short
 WIDTH, HEIGHT = 1080, 1920
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Palline che si duplicano dal centro")
+pygame.display.set_caption("Video 3")
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
